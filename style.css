@@ -1,2 +1,36 @@
-/* Font */
-#popins{font-family: 'Poppins', sans-serif;}
+/* popins font included */
+body{font-family: 'Poppins', sans-serif;}
+
+
+
+/* common orange color text */
+.orange{color: orange;}
+
+
+
+/* button */
+.button{
+    color: white;
+    background-color: orangered;
+    text-decoration: none;
+    padding: 7px;
+}
+
+
+
+/* First section */
+.first-section{display: flex;
+width: 80%;
+padding-left: 30px;
+
+
+}
+.top-one{ margin: 100px;}
+.side-style{border-left:  4px solid orangered;
+
+}
+.top-two img{width: 90%;}
+  /* second section */
+  .second-section{ display: flex;
+
+  }

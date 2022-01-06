@@ -84,3 +84,42 @@ border-radius: 20px;
 .top-three{margin-left: 30px;
 margin-right: 30px;
 }
+    /* four section */
+    .all{display: flex;
+    width: 90%;
+padding-left: 30px;
+margin-top: 150px;
+
+
+}
+    .image{
+        width: 80%;
+        padding: 10px;
+    }
+    .text{padding: 20px;}
+/* five section */
+.skill{
+    display: flex;
+    width: 70%;
+    padding: 30px;
+    margin-top: 150px;
+}
+    
+ .top{margin-top: 20px;
+margin-bottom: 20px;
+}   
+.pain-image{
+    width: 70%;
+
+}
+
+
+
+
+/* last section */
+    .last{
+        background-color: black;
+        height: 100px;
+        text-align: center;
+        color: blanchedalmond;
+    }
